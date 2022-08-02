@@ -9,7 +9,6 @@ class Solution:
           size: An integer which represents the size of stack and queue.
       """
 
-    # Write your code here
     def _init_(self, size):
         """Inits Solution with stack, queue, size, top, front and rear.
         Arguments:
